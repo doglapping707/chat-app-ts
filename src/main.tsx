@@ -9,7 +9,7 @@ import './index.css'
 
 const router = createBrowserRouter([
     {
-        path: "/singup",
+        path: "/register",
         element: <Register />,
         errorElement: <Error />,
     },
