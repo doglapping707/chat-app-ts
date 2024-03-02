@@ -45,8 +45,8 @@ body {
   height: 45px;
   border-radius: 8px;
   margin-bottom: 20px;
+  font-size: 12px;
   font-weight: 600;
-  font-size: 16px;
 }
 .form_container input {
   padding: 10px;
