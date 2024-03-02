@@ -5,7 +5,7 @@
 ログインページ
 <img width="1440" alt="スクリーンショット 2024-03-02 9 38 03" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/34704d6c-07a5-46b4-ac2c-2c6a41b81ea4">
 
-メインページ
+ホームページ
 <img width="1440" alt="Comming Soon" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/33e87517-a243-41b0-8743-a1a7508c1f3d">
 
 デモサイト: https://chat-app-ts.onrender.com/
