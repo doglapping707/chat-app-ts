@@ -9,8 +9,8 @@ import './index.css'
 
 const router = createBrowserRouter([
     {
-        path: "/register",
-        element: <Register />,
+        path: "/",
+        element: <Home />,
         errorElement: <Error />,
     },
     {
@@ -19,8 +19,8 @@ const router = createBrowserRouter([
         errorElement: <Error />,
     },
     {
-        path: "/",
-        element: <Home />,
+        path: "/register",
+        element: <Register />,
         errorElement: <Error />,
     },
 ]);
