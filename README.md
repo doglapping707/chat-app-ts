@@ -3,7 +3,7 @@
 <img width="1440" alt="スクリーンショット 2024-03-02 9 38 40" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/f700bce7-450a-4f8e-997e-2b7b54713b9b">
 
 ログインページ
-<img width="1440" alt="スクリーンショット 2024-03-02 9 38 03" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/34704d6c-07a5-46b4-ac2c-2c6a41b81ea4">
+<img width="1440" alt="スクリーンショット 2024-03-02 12 00 05" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/bca1d6f0-c97f-43bb-9bd9-d367ca22a13f">
 
 ホームページ
 <img width="1440" alt="Comming Soon" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/33e87517-a243-41b0-8743-a1a7508c1f3d">
