@@ -3,7 +3,6 @@ export default function Login() {
         <div className="form_container">
             <h1>Login</h1>
             <form action="">
-                <input type="text" placeholder="Display Name" />
                 <input type="text" placeholder="Email" />
                 <input type="text" placeholder="Password" />
                 <a href="#">Forgot your password?</a>
