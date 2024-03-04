@@ -15,8 +15,8 @@
 
 ## インストール・起動方法
 ```
-git clone https://github.com/doglapping707/react-router-js.git
-cd react-router-js
+git clone https://github.com/doglapping707/chat-app-ts.git
+cd chat-app-ts
 npm install
 npm run dev
 ```
