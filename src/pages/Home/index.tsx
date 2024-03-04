@@ -1,5 +1,15 @@
+import Navbar from "./components/Navbar"
+import Search from "./components/Search"
+import Chats from "./components/Chats"
+
 export default function Home() {
     return (
-        <h1>Home</h1>
+        <div id="home">
+            <div className="container">
+                <Navbar />
+                <Search />
+                <Chats />
+            </div>
+        </div>
     )
 }
