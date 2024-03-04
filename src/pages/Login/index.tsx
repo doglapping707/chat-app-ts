@@ -4,8 +4,14 @@ export default function Login() {
             <div className="container">
                 <h1>Login</h1>
                 <form action="">
-                    <input type="text" placeholder="Email" />
-                    <input type="text" placeholder="Password" />
+                    <div className="input_area">
+                        <label htmlFor="">Email</label>
+                        <input type="text" placeholder="Email" />
+                    </div>
+                    <div className="input_area">
+                        <label htmlFor="">Pawssword</label>
+                        <input type="text" placeholder="Password" />
+                    </div>
                     <a href="#">Forgot your password?</a>
                     <button>Sign in</button>
                 </form>
