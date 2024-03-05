@@ -1,12 +1,12 @@
 ## プレビュー
 アカウント登録ページ
-<img width="1440" alt="スクリーンショット 2024-03-02 9 38 40" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/f700bce7-450a-4f8e-997e-2b7b54713b9b">
+<img width="1440" alt="スクリーンショット 2024-03-05 19 26 39" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/ed0d64a1-785b-497b-9027-1d47c02d324b">
 
 ログインページ
-<img width="1440" alt="スクリーンショット 2024-03-02 12 00 05" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/bca1d6f0-c97f-43bb-9bd9-d367ca22a13f">
+<img width="1440" alt="スクリーンショット 2024-03-05 19 26 54" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/91a45b69-f40f-42b7-81ef-9fd6d1fb2ea2">
 
 ホームページ
-<img width="1440" alt="Comming Soon" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/33e87517-a243-41b0-8743-a1a7508c1f3d">
+<img width="1440" alt="スクリーンショット 2024-03-05 19 27 08" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/59317eb8-9a0c-4734-9d64-a5e2adb41b5d">
 
 デモサイト: https://chat-app-ts.onrender.com/
 
@@ -23,3 +23,6 @@ npm run dev
 ## 参考にしたデザイン
 ### アカウント登録 & ログインページ
 [Sign In/ Sign Up Dark UI](https://www.figma.com/community/file/1147581885174632249/sign-in-sign-up-dark-ui?searchSessionId=lt9c4xga-60ipbha0mr8) from Figma
+
+### 
+[Chat Application using PHP with MySQL & JavaScript](https://www.youtube.com/watch?v=VnvzxGWiK54) from Youtube
