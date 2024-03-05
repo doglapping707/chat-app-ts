@@ -5,12 +5,12 @@ export default function Login() {
                 <h1>Login</h1>
                 <form action="">
                     <div className="input_area">
-                        <label htmlFor="">Email</label>
-                        <input type="text" placeholder="Email" />
+                        <label htmlFor="email">Email</label>
+                        <input type="email" required />
                     </div>
                     <div className="input_area">
-                        <label htmlFor="">Pawssword</label>
-                        <input type="text" placeholder="Password" />
+                        <label htmlFor="password">Pawssword</label>
+                        <input type="password" required />
                     </div>
                     <a href="#">Forgot your password?</a>
                     <button>Sign in</button>
