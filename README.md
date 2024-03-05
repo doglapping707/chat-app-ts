@@ -6,7 +6,7 @@
 <img width="1440" alt="スクリーンショット 2024-03-05 19 26 54" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/91a45b69-f40f-42b7-81ef-9fd6d1fb2ea2">
 
 ホームページ
-<img width="1440" alt="スクリーンショット 2024-03-05 19 27 08" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/59317eb8-9a0c-4734-9d64-a5e2adb41b5d">
+<img width="1440" alt="スクリーンショット 2024-03-05 21 19 36" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/744032cd-7ab1-483c-9582-eb2d0a0faf0c">
 
 デモサイト: https://chat-app-ts.onrender.com/
 
