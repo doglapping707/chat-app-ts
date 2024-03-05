@@ -5,16 +5,16 @@ export default function Register() {
                 <h1>Register</h1>
                 <form action="">
                     <div className="input_area">
-                        <label htmlFor="">Display Name</label>
-                        <input type="text" placeholder="Display Name" />
+                        <label htmlFor="">Name</label>
+                        <input type="text" required />
                     </div>
                     <div className="input_area">
-                        <label htmlFor="">Email</label>
-                        <input type="text" placeholder="Email" />
+                        <label htmlFor="email">Email</label>
+                        <input type="email" required />
                     </div>
                     <div className="input_area">
-                        <label htmlFor="">Password</label>
-                        <input type="text" placeholder="Password" />
+                        <label htmlFor="password">Password</label>
+                        <input type="password" required />
                     </div>
                     <button>Sign up</button>
                 </form>

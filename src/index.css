@@ -82,6 +82,13 @@ button {
 button:hover {
   background: var(--secondary_color);
 }
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+img {
+  object-fit: cover;
+  border-radius: 50%;
+}
 
 #form, #home {
   display: flex;
@@ -132,11 +139,11 @@ button:hover {
   height: 45px;
   border-radius: 8px;
   margin-bottom: 20px;
-  font-size: 12px;
-  font-weight: 600;
+  font-size: 14px;
 }
 #form .container input {
   padding: 10px;
+  font-weight: 400;
 }
 #form .container input:hover {
   background-color: #383838;
@@ -145,6 +152,7 @@ button:hover {
   background-color: var(--primary_color);
   color: var(--text_color--black);
   cursor: pointer;
+  font-weight: 600;
 }
 #form .container form a {
   display: flex;
@@ -171,37 +179,38 @@ button:hover {
   padding-bottom: 26px;
   border-bottom: 1px solid #313131;
 }
-#navbar .user {
+#navbar .user, #chats .chat {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 #navbar .user_info {
-  padding-left: 15px;
+  margin-left: 12px;
+  word-break: break-all;
+  width: 160px;
 }
 #navbar img {
-  object-fit: cover;
-  border-radius: 50%;
   width: 50px;
   height: 50px;
 }
-#navbar .myname {
+#navbar .name {
   font-size: 16px;
   font-weight: 400;
   color: var(--text_color--white);
 }
+#navbar .status {
+  display: flex;
+  align-items: center;
+  margin-top: 12px;
+}
 #navbar p {
   font-size: 10px;
-  margin-top: 12px;
   color: var(--text_color--white);
-  position: relative;
 }
 #navbar .status_dot {
+  margin-left: 2px;
   font-size: 8px;
   color: #468669;
-  position: absolute;
-  top: 3px;
-  right: 18px;
 }
 #navbar button {
   background: var(--primary_color);
@@ -215,7 +224,7 @@ button:hover {
 #search {
   width: 100%;
   padding: 10px 0;
-  margin: 8px 0;
+  margin-top: 8px;
   position: relative;
 }
 #search input {
@@ -223,14 +232,63 @@ button:hover {
   height: 45px;
   border-radius: 8px;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 400;
   padding: 10px 0 10px 34px;
 }
 #search .search_icon {
   position: absolute;
-  top: 24px;
+  top: 25px;
   left: 10px;
   width: 16px;
   height: 16px;
   color: #646464;
+}
+#chats {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  height: 340px;
+
+  overflow: scroll;
+}
+#chats .chat {
+
+  width: 100%;
+  padding: 10px;
+  border-radius: 12px;
+  margin: 5px 0;
+}
+#chats .chat_inner {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#chats .chat:hover {
+  background-color: #2B2B2B;
+}
+#chats .chat_info {
+  display: flex;
+}
+#chats img {
+  width: 40px;
+  height: 40px;
+}
+#chats .textbox {
+  margin-left: 12px;
+}
+#chats .name {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--text_color--white);
+}
+#chats p {
+  font-size: 12px;
+  margin-top: 8px;
+  font-weight: 300;
+  color: var(--text_color--gray);
+}
+#chats .status_dot {
+  color: #468669;
 }
