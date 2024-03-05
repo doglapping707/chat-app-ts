@@ -27,5 +27,5 @@ npm run dev
 ### アカウント登録 & ログインページ
 [Sign In/ Sign Up Dark UI](https://www.figma.com/community/file/1147581885174632249/sign-in-sign-up-dark-ui?searchSessionId=lt9c4xga-60ipbha0mr8) from Figma
 
-### 
+### ホームページ & チャットページ
 [Chat Application using PHP with MySQL & JavaScript](https://www.youtube.com/watch?v=VnvzxGWiK54) from Youtube
