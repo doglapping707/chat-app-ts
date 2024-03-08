@@ -3,12 +3,9 @@ export default function Navbar() {
         <div id="navbar">
             <div className="user">
                 <img src="https://images.pexels.com/photos/2787341/pexels-photo-2787341.jpeg?auto=compress&cs=tinysrgb&w=800" alt="avater" />
-                <div className="user_info">
+                <div className="text_area">
                     <span className="name">Lisa Fotios</span>
-                    <div className="status">
-                        <p>Active now</p>
-                        <span className="status_dot material-symbols--circle"></span>
-                    </div>
+                    <p>Active now<span className="status_dot material-symbols--circle"></span></p>
                 </div>
             </div>
             <button>Logout</button>
