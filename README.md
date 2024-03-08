@@ -6,10 +6,10 @@
 <img width="1440" alt="スクリーンショット 2024-03-05 19 26 54" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/91a45b69-f40f-42b7-81ef-9fd6d1fb2ea2">
 
 ホームページ
-<img width="1440" alt="スクリーンショット 2024-03-05 22 39 54" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/94d24717-eebe-41c8-bb2a-958119292e3a">
+<img width="1440" alt="スクリーンショット 2024-03-09 7 40 36" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/1fa9dcb1-0f00-4f05-8af9-68c5c9731b24">
 
 チャットページ
-<img width="1440" alt="スクリーンショット 2024-03-05 22 25 08" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/43925df3-c2c4-45b8-bad6-3b8b25b1e173">
+<img width="1440" alt="スクリーンショット 2024-03-09 7 39 29" src="https://github.com/doglapping707/chat-app-ts/assets/130889937/56e3b992-0623-4ced-abb6-0cbf25080ab5">
 
 デモサイト: https://chat-app-ts.onrender.com/
 
